@@ -13,15 +13,16 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **[KonaSoft Kft.](https://www.konasoft.hu/web_2018/index.html)**
-- ⚙️ I use daily: `.ts`, `.js`, `.vue`, `.html`, `.css`, `.cs`, `.sql`
+- 🏢 I'm currently working at [Konasoft](https://www.konasoft.hu/)
+- ⚙️ I use daily: `.ts`, `.js`, `.vue`, `.html`, `.css`, `.scss`, `.cs`, `.sql`
 - ❤️ Open Source Software and DIY
-- 👯 I’m looking to collaborate on front-end and back-end projects
+- 👯 I’m looking to collaborate on front and back-end projects
 
 #### Languages and Tools 🛠
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=flate&logo=Electron&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![CSS3](https://img.shields.io/badge/CSS-264DE4?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
@@ -30,7 +31,6 @@
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)

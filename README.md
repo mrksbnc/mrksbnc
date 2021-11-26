@@ -9,7 +9,7 @@
 
 - ✨ Working on software solutions for the Hungarian Ministry of Interior, Hungarian Prison Service and many others
 - 🌱 Currently learning Mobile development and DevOps
-- 🚩 Working on side projects with my friends
+- 🚩 Working on side projects with friends
 
 ##### BIO
 

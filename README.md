@@ -5,7 +5,7 @@
   I'm a Software Developer working in Budapest, Hungary.   
 </h3>
 
-##### Now
+#### Now
 
 - ✨ Working on software solutions for the Hungarian Ministry of Interior, Hungarian Prison Service and many others
 - 🌱 Currently learning Mobile development and DevOps

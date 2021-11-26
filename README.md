@@ -24,5 +24,4 @@
 
 - 🏢 I'm currently working at **[KonaSoft Kft.](https://www.konasoft.hu/web_2018/index.html)**
 - ⚙️ I use daily: `.ts`, `.js`, `.vue`, `.html`, `.css`, `.cs`, `.sql`
-- ❤️ Open Source Software
-- 🪛 DIY
+- ❤️ Open Source Software and DIY

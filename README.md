@@ -16,7 +16,7 @@
 - 🏢 I'm currently working at [Konasoft](https://www.konasoft.hu/)
 - ⚙️ I use daily: `.ts`, `.js`, `.vue`, `.html`, `.css`, `.scss`, `.cs`, `.sql`
 - ❤️ Open Source Software and DIY
-- 🔍 I’m looking to collaborate on front and back-end projects
+- 👯 I’m looking to collaborate on FrontEnd Projects as well as any other.
 
 #### Languages and Tools 🛠
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

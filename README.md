@@ -14,7 +14,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at [Konasoft](https://www.konasoft.hu/)
-- ⚙️ I use daily: `.ts`, `.js`, `.vue`, `.html`, `.css`, `.scss`, `.cs`, `.sql`
+- ⚙️ I use daily: `.ts`, `.js`, `.vue`, `.css`, `.scss`, `.cs`, `.sql`
 - ❤️ Open Source Software and DIY
 - 👯 I’m looking to collaborate on open source projects, where I can learn the proper way of contributing
 

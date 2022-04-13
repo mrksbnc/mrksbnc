@@ -12,7 +12,7 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.ts`, `.js`, `.vue`, `.css`, `.scss`, `.cs`, `.sql`
+- ⚙️ I use daily: `.ts`, `.js`, `.vue`, `.css`, `.scss`
 - ❤️ Open Source Software and DIY
 - 👯 I’m looking to collaborate on open source projects, where I can learn the proper way of contributing
 

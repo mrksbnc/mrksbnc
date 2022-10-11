@@ -13,9 +13,9 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.ts`, `.js`, `.vue`, `.css`, `.scss`
-- ❤️ Open Source Software and DIY
-- 👯 I’m looking to collaborate on open source projects, where I can learn the proper way of contributing
+- ⚙️   I use daily: `.ts`, `.js`, `.vue`, `.css`, `.scss`
+- ❤️   Open Source Software and DIY
+- 👯  I’m looking to collaborate on open source projects, where I can learn the proper way of contributing
 
 #### Languages and Tools 🛠
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

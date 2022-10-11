@@ -7,9 +7,9 @@
 
 #### Now
 
-- 🌱 Currently learning Mobile development and DevOps
-- 🚩 Working on side projects with friends
-- 🌍 Developing GIS software for archeological use
+- 🌱  Currently learning Mobile development and Rust
+- 🚩  Working on side projects with friends
+- 🌍  Developing GIS software for archeological use
 
 ##### BIO
 

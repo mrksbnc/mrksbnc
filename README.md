@@ -13,12 +13,6 @@
 - 🚩  Working on side projects with friends
 - 🌍  Developing GIS software for archeological use
 
-##### BIO
-
-- ⚙️   I use daily: `.ts`, `.js`, `.vue`, `.css`, `.scss`
-- ❤️   Open Source Software and DIY
-- 👯  I’m looking to collaborate on open source projects, where I can learn the proper way of contributing
-
 #### Languages and Tools 🛠
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)

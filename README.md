@@ -2,14 +2,11 @@
   Hi there 👋
 </h1>
 <h3 align="center">
-  I'm a Software Developer working in Budapest, Hungary   
+  I'm a Software Engineer working in Budapest, Hungary   
 </h3>
 
-![mrksbnc github streak](https://github-readme-streak-stats.herokuapp.com/?user=mrksbnc&theme=radical&include_all_commits=true&count_private=true)
 
-#### Now
-
-- 🌱  Currently learning Mobile development and Rust
+- 🌱  Learning Mobile development and Rust
 - 🚩  Working on side projects with friends
 - 🌍  Developing GIS software for archeological use
 

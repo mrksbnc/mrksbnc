@@ -26,3 +26,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![VisualStudio](https://img.shields.io/badge/-Visual_Studio-6C33AF?logo=visual%20studio)
+
+<p align="center">
+<a href="https://github.com/mrksbnc">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrksbnc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrksbnc&layout=compact&langs_count=8&count_private=true&theme=algolia"/>
+  </a>
+</p>

@@ -8,7 +8,6 @@
 
 - 🌱  Learning Mobile development and Rust
 - 🚩  Working on side projects with friends
-- 🌍  Developing GIS software for archeological use
 
 #### Languages and Tools 🛠
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

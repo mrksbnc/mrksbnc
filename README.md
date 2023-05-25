@@ -1,15 +1,13 @@
 <h1 align="center">
-  Hi there 👋
+  Hello there 👋
 </h1>
 <h3 align="center">
   I'm a Software Engineer from Budapest, Hungary
 </h3>
 
 
-- 🌱  Learning Rust and Go
-- 🚩  Working on side projects
+<h2> Languages and Tools 🛠</h2>
 
-#### Languages and Tools 🛠
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -24,7 +22,20 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/-Visual_Studio-6C33AF?logo=visual%20studio)
+
+<hr>
+
+# Stats
+
+<table>
+  <tr>
+    <th>General</th>
+    <th>Language specific</th> 
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mrksbnc&show_icons=true&count_private=true&theme=transparent"></td>
+    <td><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrksbnc&theme=gruvbox&count_private=true)"></td> 
+  </tr>
+</table>

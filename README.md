@@ -25,17 +25,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<hr>
-
-# Stats
-
-<table>
-  <tr>
-    <th>General</th>
-    <th>Language specific</th> 
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mrksbnc&show_icons=true&count_private=true&theme=transparent"></td>
-    <td><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrksbnc&theme=gruvbox&count_private=true)"></td> 
-  </tr>
-</table>

@@ -2,7 +2,7 @@
   Hello there 👋
 </h1>
 <h3 align="center">
-  I'm a Software Developer working on Secure Web Application development and IoT-related projects
+  I'm a Software Developer working on Secure Web Apps and IoT-related projects
 </h3>
 
 

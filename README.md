@@ -2,7 +2,7 @@
   Hello there 👋
 </h1>
 <h3 align="center">
-  I'm a Software Developer from Budapest
+  I'm a Software Developer currently living in Berlin
 </h3>
 
 

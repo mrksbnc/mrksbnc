@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello there 👋
+  Hello there, I'm Bence 👋
 </h1>
 <h3 align="center">
   I'm a Software Developer currently living in Berlin
